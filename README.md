@@ -32,11 +32,14 @@ Texturing is something to be resolved later...
 - [ ] Maps (b4n4n4)
   - [ ] BnL Tune-up
   - Rest will go here, I'm too lazy to browse the game for map names
-- [ ] Code (b4n4n4)
-  - [ ] Player (Shared with Lord duck and b4n4n4)
-    - [ ] Movements, including rotation backwards on backward key pressed
-	- [ ] Third person camera 
-    - [ ] Garbage compressing
+- [ ] Code
+  - [ ] Player
+    - [ ] Movements, including rotation backwards on backward key pressed (Lord duck)
+	- [ ] Third person camera (Lord duck)
+    - [ ] Garbage compressing (b4n4n4)
+  - [ ] Menu
+    - [ ] Rotating style (Lord duck and b4n4n4)
+    - [ ] Profiles (saves implemented later) (b4n4n4)
   - [ ] Simon says (b4n4n4)
   - [ ] Match colors (b4n4n4)
 	
