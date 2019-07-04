@@ -1,6 +1,6 @@
-#WALL-E Remake
+# WALL-E Remake
 
-##Todo list:
+## Todo list:
 Importance goes down in the entries within the entry 
 Objects are to be exported with FBX
 Texturing is something to be resolved later...
