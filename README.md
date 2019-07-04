@@ -23,7 +23,7 @@ Texturing is something to be resolved later...
     - [ ] Earth garbage cube
 	- [ ] Small
 	- [ ] Medium
-- [ ] Map props
+- [ ] Map props (oc)
   - [ ] BnL Tune-up
     - [ ] Cube holding arms
 	- [ ] Ramps 
@@ -33,10 +33,10 @@ Texturing is something to be resolved later...
   - [ ] BnL Tune-up
   - Rest will go here, I'm too lazy to browse the game for map names
 - [ ] Code (b4n4n4)
+  - [ ] Player (Shared with Lord duck and b4n4n4)
+    - [ ] Movements, including rotation backwards on backward key pressed
+	- [ ] Third person camera 
+    - [ ] Garbage compressing
   - [ ] Simon says (b4n4n4)
   - [ ] Match colors (b4n4n4)
-  - [ ] Player (Lord duck)
-    - [ ] Third person camera 
-	- [ ] Movements, including rotation backwards on backward key pressed
-    - [ ] Garbage compressing
 	
