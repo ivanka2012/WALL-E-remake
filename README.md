@@ -2,9 +2,11 @@
 
 ## Todo list:
 Importance goes down in the entries within the entry 
+
 Objects are to be exported with FBX
+
 Texturing is something to be resolved later...
-- [ ] WALL-E (base player model) (oc)
+- [ ] WALL-E (base player model)
   - [ ] Base model
   - [ ] Animations
 	- [ ] Forward movement
@@ -15,31 +17,45 @@ Texturing is something to be resolved later...
 	- [ ] Dying WALL-E
 	- [ ] Digging artifact
   - [ ] Rigging for Unity
-- [ ] Mission models (oc)
+- [ ] Steward
+- [ ] Gopher
+- [ ] Reject bots
+  - [ ]
+- [ ] Mission models
   - [ ] BnL Security door (earth)
   - [ ] Cube dispenser
     - [ ] Explosive dispenser (earth)
-  - [ ] Garbage piles (compressable by WALL-E)
+  - [ ] Garbage piles (compressable)
     - [ ] Earth garbage cube
 	- [ ] Small
 	- [ ] Medium
-- [ ] Map props (oc)
+- [ ] Map props
   - [ ] BnL Tune-up
     - [ ] Cube holding arms
 	- [ ] Ramps 
 	- [ ] BnL billboards
 	- [ ] Office building
-- [ ] Maps (b4n4n4)
+- [ ] Maps
   - [ ] BnL Tune-up
   - Rest will go here, I'm too lazy to browse the game for map names
 - [ ] Code
   - [ ] Player
-    - [ ] Movements, including rotation backwards on backward key pressed (Lord duck)
-	- [ ] Third person camera (Lord duck)
-    - [ ] Garbage compressing (b4n4n4)
+    - [ ] Movements, including rotation backwards on backward key pressed
+	- [ ] Third person camera
+    - [ ] Garbage compressing
   - [ ] Menu
-    - [ ] Rotating style (Lord duck and b4n4n4)
-    - [ ] Profiles (saves implemented later) (b4n4n4)
-  - [ ] Simon says (b4n4n4)
-  - [ ] Match colors (b4n4n4)
+    - [ ] Rotating style
+    - [ ] Profiles (saves implemented later)
+  - [ ] NPC
+    - [ ] Steward
+	- [ ] Gopher
+  - [ ] Simon says
+  - [ ] Match colors
+## Task list for everyone:
+LordDuck (github: ): Code.Player
+b4n4n4 (github: ivanka2012): Code.Menu, Code.SimonSays
+E-WALL (github: ): Maps.BnLTune-up
+oc (github: ):  
+Nunya E. Bizznass (github: ):
+Pathorox (github: ):
 	
