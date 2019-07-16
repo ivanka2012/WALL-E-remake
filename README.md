@@ -1,4 +1,4 @@
-# WALL-E Remake
+# WALL-E Recharged
 
 ## Todo list:
 
@@ -8,17 +8,27 @@ Objects are to be exported with FBX
 
 Texturing is something to be resolved later...
 
-- [ ] WALL-E (base player model)
-  - [ ] Base model
-  - [ ] Animations
-	- [ ] Forward movement
-	- [ ] Left, right turning 
-	- [ ] Normal->Box mode, Box->Normal mode
-	- [ ] Plain box mode
-	- [ ] Shocked WALL-E
-	- [ ] Dying WALL-E
-	- [ ] Digging artifact
+- [X] WALL-E (base player model)
+  - [X] Base model
+  - [X] Animations
+	- [X] Forward movement
+	- [X] Left, right turning 
+	- [X] Normal->Box mode, Box->Normal mode
+	- [X] Plain box mode
+	- [X] Shocked WALL-E
+	- [X] Dying WALL-E
+	- [X] Digging artifact
   - [ ] Rigging for Unity
+- [ ] Clean WALL-E (retexture of real WALL-E)
+- [ ] Backpack WALL-E (retexture of real WALL-E)
+- [ ] EVE
+  - [ ] Base model
+  - [ ] Animations 
+    - [ ] Speed-up rotation
+	- [ ] Shoot standby
+	- [ ] Shoot
+	- [ ] Idle stay
+	- [ ] Idle movement	
 - [X] Steward
 - [ ] Gopher
 - [X] M-O
@@ -30,18 +40,35 @@ Texturing is something to be resolved later...
   - [ ] VAQ-M
 - [ ] Mission models
   - [X] BnL Security door (earth)
-  - [ ] Cube dispenser
+  - [ ] Weapon cube dispenser
     - [ ] Explosive dispenser (earth)
+  - [ ] Metal cubes
+    - [ ] Blue pill
+	- [ ] Yellow pill
+	- [ ] Red pill
   - [ ] Garbage piles (compressable)
     - [ ] Earth garbage cube
 	- [ ] Small
 	- [ ] Medium
+  - [ ] Garbage towers
+    - [ ] 5 different kinds, ranging from small to really big (scaled down)
+  - [ ]
 - [ ] Map props
   - [ ] BnL Tune-up
     - [ ] Cube holding arms
-	- [ ] Ramps 
-	- [ ] BnL billboards
-	- [ ] Office building
+	- [ ] Cube holding storage
+	- [ ] Fences
+	- [ ] BnL Truck
+	- [ ] BnL pass-under fence
+	- [ ] BnL-branded (yellow) jump ramp
+	- [ ] Makeshift speed gaining ramp
+	- [ ] BnL-branded (yellow) speed gaining ramp
+	- [ ] Plain metal speed gaining ramp
+- [ ] Textures
+  - [ ] Recharge-o-meter
+  - [ ] Speedometer
+  - [ ] Earth themed pause menu background
+  - [ ] Axiom themed pause menu background
 - [ ] Maps
   - [ ] BnL Tune-up
   - Rest will go here, I'm too lazy to browse the game for map names
@@ -50,6 +77,19 @@ Texturing is something to be resolved later...
     - [ ] Movements, including rotation backwards on backward key pressed
 	- [ ] Third person camera
     - [ ] Garbage compressing
+	- [ ] Laser
+	- [ ] Recharging
+  - [ ] Special props
+    - [ ] Jump ramp
+    - [ ] Speed gaining ramp
+  - [ ] Missions
+    - [ ] BnL door blue pill collecting
+    - [ ] Simon says
+    - [ ] Match colors
+	- [ ] Match points
+  - [ ] Cubes
+    - [ ] Non-explosive cube
+	- [ ] Explosive cube 
   - [ ] Menu
     - [ ] Rotating style
     - [ ] Profiles (saves implemented later)
@@ -62,21 +102,10 @@ Texturing is something to be resolved later...
       - [ ] BRL-A
       - [ ] PR-T
       - [ ] VAQ-M
-    - [ ] Simon says
-    - [ ] Match colors
-## Task list for everyone:
-
-LordDuck (github: ): Code.Player
-
-b4n4n4 (github: ivanka2012): Code.Menu, Code.SimonSays, Code.MatchColors
-
-E-WALL (github: ): Maps.*
-
-oc (github: ):  RejectBots.*
-
-Nunya E. Bizznass (github: ): 
-
-Pathorox (github: ):
-
-crash from crash bandicoot: (github: ): MapProps.*
+  - [ ] Miscellanious
+    - [ ] Shaders
+	- [ ] Tips
+	- [ ] Credits
+	- [ ] Minigames
+	  - [ ] Wall-e Cube Throwing Battle Royale (WCTBR) >:DDDD (After we sorted out networknig)
 	
