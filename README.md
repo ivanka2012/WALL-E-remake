@@ -59,14 +59,14 @@ Texturing is something to be resolved later...
 	- [X] Cube holding storage
 	- [X] Fences
 	- [X] BnL Truck
-	- [ ] BnL pass-under fence
+	- [X] BnL pass-under fence
 	- [ ] BnL-branded (yellow) jump ramp
-	- [ ] Makeshift speed gaining ramp
+	- [X] Makeshift speed gaining ramp
 	- [ ] BnL-branded (yellow) speed gaining ramp
 	- [ ] Plain metal speed gaining ramp
 - [ ] Textures
-  - [ ] Recharge-o-meter
-  - [ ] Speedometer
+  - [X] Recharge-o-meter
+  - [X] Speedometer
   - [ ] Earth themed pause menu background
   - [ ] Axiom themed pause menu background
 - [ ] Maps
