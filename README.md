@@ -55,10 +55,10 @@ Texturing is something to be resolved later...
   - [ ]
 - [ ] Map props
   - [ ] BnL Tune-up
-    - [ ] Cube holding arms
-	- [ ] Cube holding storage
-	- [ ] Fences
-	- [ ] BnL Truck
+    - [X] Cube holding arms
+	- [X] Cube holding storage
+	- [X] Fences
+	- [X] BnL Truck
 	- [ ] BnL pass-under fence
 	- [ ] BnL-branded (yellow) jump ramp
 	- [ ] Makeshift speed gaining ramp
