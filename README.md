@@ -60,7 +60,7 @@ Texturing is something to be resolved later...
 	- [ ] Fences
 	- [ ] BnL Truck
 	- [ ] BnL pass-under fence
-	- [ ] BnL-branded (yellow) jump ramp
+	- [X] BnL-branded (yellow) jump ramp
 	- [ ] Makeshift speed gaining ramp
 	- [ ] BnL-branded (yellow) speed gaining ramp
 	- [ ] Plain metal speed gaining ramp
