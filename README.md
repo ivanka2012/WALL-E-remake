@@ -65,8 +65,8 @@ Texturing is something to be resolved later...
 	- [ ] BnL-branded (yellow) speed gaining ramp
 	- [ ] Plain metal speed gaining ramp
 - [ ] Textures
-  - [ ] Recharge-o-meter
-  - [ ] Speedometer
+  - [X] Recharge-o-meter
+  - [X] Speedometer
   - [ ] Earth themed pause menu background
   - [ ] Axiom themed pause menu background
 - [ ] Maps
