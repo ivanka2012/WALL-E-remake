@@ -63,7 +63,7 @@ Texturing is something to be resolved later...
 	- [X] BnL-branded (yellow) jump ramp
 	- [ ] Makeshift speed gaining ramp
 	- [ ] BnL-branded (yellow) speed gaining ramp
-	- [ ] Plain metal speed gaining ramp
+	- [X] Plain metal speed gaining ramp
 - [ ] Textures
   - [X] Recharge-o-meter
   - [X] Speedometer
