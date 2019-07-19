@@ -1,0 +1,3 @@
+If you look for textures, we can't find them. I tested some textures with OC and it didn't worked.
+This model can be use to know the angle and how it is curved.
+(I recommend to verify ingame before process)

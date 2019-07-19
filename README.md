@@ -38,7 +38,7 @@ Texturing is something to be resolved later...
   - [ ] BRL-A
   - [ ] PR-T
   - [ ] VAQ-M
-- [ ] Mission models
+- [ ] Mission models (to be custom made)
   - [X] BnL Security door (earth)
   - [ ] Weapon cube dispenser
     - [ ] Explosive dispenser (earth)
@@ -53,13 +53,13 @@ Texturing is something to be resolved later...
   - [ ] Garbage towers
     - [ ] 5 different kinds, ranging from small to really big (scaled down)
   - [ ]
-- [ ] Map props
+- [ ] Map props (to be ripped and retouched later)
   - [ ] BnL Tune-up
     - [ ] Cube holding arms
-	- [ ] Cube holding storage
+	- [X] Cube holding storage
 	- [ ] Fences
-	- [ ] BnL Truck
-	- [ ] BnL pass-under fence
+	- [X] BnL Truck
+	- [X] BnL pass-under fence
 	- [X] BnL-branded (yellow) jump ramp
 	- [ ] Makeshift speed gaining ramp
 	- [ ] BnL-branded (yellow) speed gaining ramp
