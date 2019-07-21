@@ -71,7 +71,32 @@ Texturing is something to be resolved later...
   - [ ] Axiom themed pause menu background
 - [ ] Maps
   - [ ] BnL Tune-up
-  - Rest will go here, I'm too lazy to browse the game for map names
+  - [ ] Sandstorm Sprint
+  - [ ] Home Sweet Home
+  - [ ] Work Day
+  - [ ] Hidden Treasure
+  - [ ] Truck Sweet Truck
+  - [ ] Shipyard
+  - [ ] Tanker Playground
+  - [ ] Taking Flight
+  - [ ] Surprise Departure
+  - [ ] Stowaway to Space
+  - [ ] Eve Pursuit
+  - [ ] Clean Getaway
+  - [ ] Life on the Axiom
+  - [ ] Robot Rescue
+  - [ ] Repair-Ward Playground
+  - [ ] Human Highway
+  - [ ] Pod Blaster
+  - [ ] Cosmic Speedway
+  - [ ] Rogue Robots
+  - [ ] Trash Shoot
+  - [ ] Fixing Eve
+  - [ ] Holo-Detector Dash
+  - [ ] A Robot's Last Stand
+  - [ ] Home Coming
+  - [ ] Epilogue
+  - [ ] Lido-Deck Dash
 - [ ] Code
   - [ ] Player
     - [ ] Movements, including rotation backwards on backward key pressed
