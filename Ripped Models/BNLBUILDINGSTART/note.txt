@@ -1,0 +1,2 @@
+window texture is missing (find new one)
+- BNL Logo is missing (see screenshot)
