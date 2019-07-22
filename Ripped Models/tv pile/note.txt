@@ -1,3 +1,0 @@
-Only these 2 faces were showed in Noesis. I ripped 2-3 times. All you need to its to finish the rectangle and apply the textures.
-Look at the screenshot to see how it looks like.
-Also, the tvs that go out of the pile are the same model multiply by 6 which is the reason why theres one file for them.
