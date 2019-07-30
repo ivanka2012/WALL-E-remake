@@ -1,0 +1,31 @@
+How to set the npc in the unity engine:
+you need the scripts inside the editor as well
+
+step 1: place the Enemy.prefab on the editor, make sure the object
+has the script assigned.
+
+step 2: create an empty object called Gamemanager and put the script
+in it, it's required to assign the player prefab.
+
+step 3: grab the player controller prefab you're currently using on
+the player space, don't worry, it can be any player controller and
+doesn't need anything specific to make the AI working.
+
+although i've made a simple tutorial on how to set it up, the thing
+is, we aren't done, if you go right now an try to test it, it won't move
+and no error will pop up as well, because you need to tell the AI
+where to walk:
+
+-go to the window tab on the engine, go to AI and select "navigation".
+
+-a new tab will be shown on the right, select the terrain while on this
+tab
+
+-make sure the navigation area is set up to "walkable" and make
+sure the navigation static is checked.
+
+-change from 'object' to 'bake' on the same tab and click "bake".
+
+if you followed the instructions well, the ground will have a "blue"
+strange thing on it, don't worry about, now go and play and if you
+hit F near the NPC it will succesfully follow you.
